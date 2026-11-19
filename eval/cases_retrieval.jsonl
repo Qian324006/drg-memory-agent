@@ -1,0 +1,54 @@
+{"id": "v01", "kind": "answerable_verbatim", "question": "DRG付费结算所涉及的医保基金具体包括哪几类？", "gold_id": "drg_qa_0"}
+{"id": "v02", "kind": "answerable_verbatim", "question": "纳入DRG付费的定点医疗机构范围由谁确定，确定的原则是什么？", "gold_id": "drg_qa_8"}
+{"id": "v03", "kind": "answerable_verbatim", "question": "对于病组权重小于等于1的DRG，住院总费用达到该DRG支付标准多少倍及以上的病例被视为费用极高病例？", "gold_id": "drg_qa_16"}
+{"id": "v04", "kind": "answerable_verbatim", "question": "当年预测全市DRG住院总费用的计算公式是什么", "gold_id": "drg_qa_24"}
+{"id": "v05", "kind": "answerable_verbatim", "question": "阿达木单抗注射液在湖南省医保目录中，由江苏复星医药销售有限公司生产的商品名是什么，其医保支付标准是多少？", "gold_id": "drg_qa_32"}
+{"id": "v06", "kind": "answerable_verbatim", "question": "奥布替尼片（商品名：宜诺凯）的医保限定支付范围覆盖了哪几种淋巴瘤", "gold_id": "drg_qa_40"}
+{"id": "v07", "kind": "answerable_verbatim", "question": "富马酸二甲酯肠溶胶囊（特菲达）的医保限定支付范围是什么", "gold_id": "drg_qa_48"}
+{"id": "v08", "kind": "answerable_verbatim", "question": "瑞维鲁胺片的医保限定支付范围针对的是哪类前列腺癌患者", "gold_id": "drg_qa_56"}
+{"id": "v09", "kind": "answerable_verbatim", "question": "使用雷珠单抗注射液时，首次处方要求病眼基线矫正视力在什么范围内", "gold_id": "drg_qa_64"}
+{"id": "v10", "kind": "answerable_verbatim", "question": "培门冬酶注射液的商品名“艾阳”由哪家企业生产", "gold_id": "drg_qa_72"}
+{"id": "v11", "kind": "answerable_verbatim", "question": "盐酸芬戈莫德胶囊的医保限定支付范围是什么", "gold_id": "drg_qa_80"}
+{"id": "v12", "kind": "answerable_verbatim", "question": "注射用维布妥昔单抗限用于哪些CD30阳性淋巴瘤成人患者？", "gold_id": "drg_qa_88"}
+{"id": "v13", "kind": "answerable_verbatim", "question": "艾加莫德α注射液适用于哪类重症肌无力患者？", "gold_id": "drg_qa_96"}
+{"id": "v14", "kind": "answerable_verbatim", "question": "广金钱草总黄酮胶囊主要用于治疗哪种疾病，其适用证型是什么", "gold_id": "drg_qa_104"}
+{"id": "v15", "kind": "answerable_verbatim", "question": "酒石酸艾格司他胶囊的医保支付标准是多少，以及其限用于经过哪种基因型检测的Ⅰ型戈谢病成年患者", "gold_id": "drg_qa_112"}
+{"id": "v16", "kind": "answerable_verbatim", "question": "阿可替尼胶囊的医保限定支付范围是针对哪类患者？", "gold_id": "drg_qa_120"}
+{"id": "v17", "kind": "answerable_verbatim", "question": "林普利塞片限用于既往接受过至少几种系统性治疗的复发或难治性滤泡性淋巴瘤成人患者", "gold_id": "drg_qa_128"}
+{"id": "v18", "kind": "answerable_verbatim", "question": "注射用奥马珠单抗α限用于治疗哪类哮喘患者", "gold_id": "drg_qa_136"}
+{"id": "v19", "kind": "answerable_verbatim", "question": "在提供的药品列表中，属于中成药的药品名称是什么？", "gold_id": "drg_qa_144"}
+{"id": "v20", "kind": "answerable_verbatim", "question": "根据文本，对于因胰岛素抵抗无法使用葡萄糖的抢救患者，当前推荐的果糖每日总剂量上限是多少？", "gold_id": "drg_qa_152"}
+{"id": "v21", "kind": "answerable_verbatim", "question": "三级医疗机构的等级系数在什么情况下会按二级医疗机构等级系数确定", "gold_id": "drg_qa_160"}
+{"id": "v22", "kind": "answerable_verbatim", "question": "国家医学中心或国家区域医疗中心（输出单位）的激励系数有何特殊规定", "gold_id": "drg_qa_168"}
+{"id": "v23", "kind": "answerable_verbatim", "question": "对于不稳定病组和无权重组，在年末组内病例数超过多少例后，需要重新计算权重值", "gold_id": "drg_qa_176"}
+{"id": "v24", "kind": "answerable_verbatim", "question": "定点医疗机构在收治住院病人时，严禁哪些具体违法违规行为？", "gold_id": "drg_qa_184"}
+{"id": "v25", "kind": "answerable_verbatim", "question": "对于费用极高病例，按项目付费的人次不得超出当期本院该病组出院人次的百分之多少", "gold_id": "drg_qa_192"}
+{"id": "p01", "kind": "answerable_paraphrase", "question": "DRG 结算里医保基金到底包括哪几块？", "gold_id": "drg_qa_0"}
+{"id": "p02", "kind": "answerable_paraphrase", "question": "哪些医院会被纳入 DRG 付费？谁来定？", "gold_id": "drg_qa_8"}
+{"id": "p03", "kind": "answerable_paraphrase", "question": "费用极高病例怎么判定，超过支付标准几倍算？", "gold_id": "drg_qa_16"}
+{"id": "p04", "kind": "answerable_paraphrase", "question": "全市 DRG 住院总费用当年是怎么预测的，公式是啥", "gold_id": "drg_qa_24"}
+{"id": "p05", "kind": "answerable_paraphrase", "question": "不稳定病组到年底病例数超过多少例就要重新算权重了？", "gold_id": "drg_qa_176"}
+{"id": "p06", "kind": "answerable_paraphrase", "question": "三级医院什么情况下会按二级医院的等级系数算？", "gold_id": "drg_qa_160"}
+{"id": "p07", "kind": "answerable_paraphrase", "question": "国家医学中心的激励系数有什么特别规定？", "gold_id": "drg_qa_168"}
+{"id": "p08", "kind": "answerable_paraphrase", "question": "医院收住院病人的时候，哪些做法是严禁的？", "gold_id": "drg_qa_184"}
+{"id": "p09", "kind": "answerable_paraphrase", "question": "费用极高病例里按项目付费的人次占比上限是多少", "gold_id": "drg_qa_192"}
+{"id": "p10", "kind": "answerable_paraphrase", "question": "广金钱草总黄酮胶囊是治什么的？", "gold_id": "drg_qa_104"}
+{"id": "p11", "kind": "answerable_paraphrase", "question": "瑞维鲁胺片能报销的范围是哪些前列腺癌患者", "gold_id": "drg_qa_56"}
+{"id": "p12", "kind": "answerable_paraphrase", "question": "艾加莫德α注射液适合什么样的重症肌无力病人", "gold_id": "drg_qa_96"}
+{"id": "p13", "kind": "answerable_paraphrase", "question": "奥布替尼片（宜诺凯）的医保限定支付范围包括哪些淋巴瘤", "gold_id": "drg_qa_40"}
+{"id": "p14", "kind": "answerable_paraphrase", "question": "阿可替尼胶囊限用于哪类患者？", "gold_id": "drg_qa_120"}
+{"id": "u01", "kind": "unanswerable_off_topic", "question": "今天长沙天气怎么样", "gold_id": null}
+{"id": "u02", "kind": "unanswerable_off_topic", "question": "帮我写一段快速排序的 Python 代码", "gold_id": null}
+{"id": "u03", "kind": "unanswerable_off_topic", "question": "帮我写一首关于秋天的诗", "gold_id": null}
+{"id": "u04", "kind": "unanswerable_off_topic", "question": "北京到上海的高铁要坐多久", "gold_id": null}
+{"id": "u05", "kind": "unanswerable_off_topic", "question": "pandas 怎么读取 Excel 文件", "gold_id": null}
+{"id": "u06", "kind": "unanswerable_off_topic", "question": "明天股市会涨吗", "gold_id": null}
+{"id": "u07", "kind": "unanswerable_off_topic", "question": "推荐几本学机器学习的书", "gold_id": null}
+{"id": "u08", "kind": "unanswerable_near_domain", "question": "医保报销比例是多少", "gold_id": null}
+{"id": "u09", "kind": "unanswerable_near_domain", "question": "门诊起付线是多少钱", "gold_id": null}
+{"id": "u10", "kind": "unanswerable_near_domain", "question": "长沙哪家三甲医院的骨科最好", "gold_id": null}
+{"id": "u11", "kind": "unanswerable_near_domain", "question": "住院押金要交多少", "gold_id": null}
+{"id": "u12", "kind": "unanswerable_near_domain", "question": "DRG 付费下患者自己要付多少钱", "gold_id": null}
+{"id": "u13", "kind": "unanswerable_near_domain", "question": "生育保险能报多少", "gold_id": null}
+{"id": "u14", "kind": "unanswerable_near_domain", "question": "异地就医怎么备案", "gold_id": null}
+{"id": "u15", "kind": "unanswerable_near_domain", "question": "医保卡丢了怎么补办", "gold_id": null}
